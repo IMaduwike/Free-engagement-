@@ -50,9 +50,7 @@
         <button onclick="playAudio()">Get Free Instagram Followers</button>
 
         <audio id="audio" src="https://www.101soundboards.com/sounds/423166-bree-olson-screaming-orgasm-sound"></audio>
-
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8451931499063925"
-            crossorigin="anonymous"></script>
+        
         <script>
             function playAudio() {
                 var audio = document.getElementById("audio");
