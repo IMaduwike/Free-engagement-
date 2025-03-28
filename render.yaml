@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8451931499063925"
+        crossorigin="anonymous"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Free TikTok and Instagram Likes and Follows</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #ff0055;
+        }
+        .product-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        button {
+            padding: 15px 30px;
+            font-size: 18px;
+            background-color: #ff0055;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #e6004d;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Get Free TikTok Likes and Instagram Follows!</h1>
+    <p>
+        Click the button below to receive your free likes and follows!
+    </p>
+    <div class="product-grid">
+        <button onclick="playAudio()">Get Free TikTok Likes</button>
+        <button onclick="playAudio()">Get Free TikTok Followers</button>
+        <button onclick="playAudio()">Get Free Instagram Likes</button>
+        <button onclick="playAudio()">Get Free Instagram Followers</button>
+
+        <audio id="audio" src="https://www.101soundboards.com/sounds/423166-bree-olson-screaming-orgasm-sound"></audio>
+
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8451931499063925"
+            crossorigin="anonymous"></script>
+        <script>
+            function playAudio() {
+                var audio = document.getElementById("audio");
+                alert("Thank you for your interest! Enjoy the audio!");
+            }
+        </script>
+
+    </body>
+</html>
